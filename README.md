@@ -1,24 +1,24 @@
-# flask-api
+## flask-api
  how create a api with Flask using python
 
-# CREATE  INSTALL VIRTUAL VENV 
+## CREATE  INSTALL VIRTUAL VENV 
   * python3 -m venv venv
 
-# INSTALL FLASK
+## INSTALL FLASK
   * pip install flask
 
-# RUN FLASK
+## RUN FLASK
   * python app.py
 
-# TYPES REQUESTS "CRUD"
+## TYPES REQUESTS "CRUD"
   * GET -> READ
   * POST --> CREATE
   * PUT -> UPDATE
   * DELETE -> DELETE
 
-# ENVIROMENT VARIABLES
+## ENVIROMENT VARIABLES
   * CREATE .env
   * PIP INSTALL python-dotenv
 
-# DATABASE  REQUIREMENTS
+## DATABASE  REQUIREMENTS
   * pip install mysql-connector
